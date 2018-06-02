@@ -1,0 +1,5 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "renderMode" : 1
+}
